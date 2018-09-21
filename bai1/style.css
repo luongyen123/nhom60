@@ -1,0 +1,62 @@
+    	body{
+    		box-sizing: border-box;
+    	}
+
+        .navbar{
+            border-radius: 0;
+        }
+
+        hr{
+            height: 3px;
+            background-color: #f05f40;
+            width: 80px;
+            border: none;
+            border-radius: 20%;
+        }
+
+    	p{
+    		color: #CCCCCC;
+    	}
+
+    	i{
+    		color: #f05f40;
+    		font-size: 60px;
+    	}
+
+        .jumbotron{
+            margin: 0;
+            padding: 0;
+        }
+
+    	.btn-default, .btn-danger{
+            width: 200px;
+            font-size: 16px;
+    		padding: 16px 20px; 
+    		margin: 20px auto;
+    		font-weight: bold;
+            border: none;
+    	}
+
+    	.btn:hover{
+    		opacity: 0.8;
+    	}
+
+    	.img-rounded{
+    		height: 255px;
+    		width: 100%;
+            border-radius: 0;
+    	}
+
+        .container-img-col{
+            padding-left: 0;
+            padding-right: 0;
+        }
+
+        footer p,
+        footer i{
+            color: black;
+        }
+
+        footer a p{
+            color: #f05f40;
+        }
